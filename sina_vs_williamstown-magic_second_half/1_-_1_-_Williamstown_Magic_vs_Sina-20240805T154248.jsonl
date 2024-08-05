@@ -1,0 +1,111 @@
+{"datetime": "2024-08-05T15:42:48.042443Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:42:48.063176Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 8, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Sina", "team_name_blue": "Williamstown Magic", "match_id": "1", "halftime": 1}}
+{"datetime": "2024-08-05T15:42:54.417138Z", "matchtime": 5.312000000006492, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 8, "score_blue": 1}}
+{"datetime": "2024-08-05T15:42:58.044201Z", "matchtime": 8.320000000010168, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:43:02.417857Z", "matchtime": 11.84000000001447, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 8, "score_blue": 2}}
+{"datetime": "2024-08-05T15:43:06.413232Z", "matchtime": 14.848000000018146, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:46:27.325365Z", "matchtime": 31.5840000000386, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:46:30.285265Z", "matchtime": 33.7920000000413, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:46:30.673373Z", "matchtime": 34.08000000004165, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:46:41.803224Z", "matchtime": 42.65600000005213, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 9, "score_blue": 2}}
+{"datetime": "2024-08-05T15:46:45.709270Z", "matchtime": 45.66400000005581, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2024-08-05T15:47:05.583228Z", "matchtime": 60.70400000007419, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:47:05.584758Z", "matchtime": 60.70400000007419, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:47:10.373454Z", "matchtime": 64.22400000007849, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-05T15:47:17.631301Z", "matchtime": 70.04800000008561, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:47:19.519937Z", "matchtime": 71.55200000008745, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 9, "score_blue": 3}}
+{"datetime": "2024-08-05T15:47:23.701115Z", "matchtime": 74.56000000009112, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:47:44.060014Z", "matchtime": 90.91200000010588, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2024-08-05T15:47:46.563735Z", "matchtime": 92.8640000001048, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:47:50.545803Z", "matchtime": 96.03200000010304, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:48:01.989522Z", "matchtime": 105.34400000009788, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:48:02.734969Z", "matchtime": 105.95200000009754, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2024-08-05T15:48:10.720686Z", "matchtime": 112.09600000009414, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-05T15:48:14.719790Z", "matchtime": 115.20000000009242, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:48:18.445770Z", "matchtime": 117.92000000009091, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:48:19.802094Z", "matchtime": 118.91200000009036, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2024-08-05T15:48:27.561622Z", "matchtime": 124.67200000008717, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:48:38.618531Z", "matchtime": 132.9280000000826, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:48:43.015027Z", "matchtime": 136.03200000008087, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:48:48.485551Z", "matchtime": 140.06400000007864, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 10, "score_blue": 3}}
+{"datetime": "2024-08-05T15:48:52.642196Z", "matchtime": 143.07200000007697, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2024-08-05T15:49:13.576550Z", "matchtime": 158.7200000000683, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 4}}
+{"datetime": "2024-08-05T15:49:17.725352Z", "matchtime": 161.72800000006663, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:49:23.601780Z", "matchtime": 166.36800000006406, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 5}}
+{"datetime": "2024-08-05T15:49:27.424769Z", "matchtime": 169.3760000000624, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:49:35.119587Z", "matchtime": 175.55200000005897, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 6}}
+{"datetime": "2024-08-05T15:49:38.899382Z", "matchtime": 178.5600000000573, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:49:56.750504Z", "matchtime": 193.60000000004896, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2024-08-05T15:49:59.908399Z", "matchtime": 196.16000000004755, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2024-08-05T15:50:07.286588Z", "matchtime": 202.11200000004425, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:50:07.578697Z", "matchtime": 202.33600000004412, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 7}}
+{"datetime": "2024-08-05T15:50:11.583324Z", "matchtime": 205.34400000004246, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:50:42.408605Z", "matchtime": 229.632000000029, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 8}}
+{"datetime": "2024-08-05T15:50:46.164895Z", "matchtime": 232.64000000002733, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:50:51.126343Z", "matchtime": 236.57600000002515, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 9}}
+{"datetime": "2024-08-05T15:50:55.172139Z", "matchtime": 239.58400000002348, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:51:00.257277Z", "matchtime": 243.61600000002124, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 10}}
+{"datetime": "2024-08-05T15:51:04.022294Z", "matchtime": 246.62400000001958, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:51:09.367550Z", "matchtime": 250.81600000001725, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 11}}
+{"datetime": "2024-08-05T15:51:13.489726Z", "matchtime": 253.8240000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:51:19.793431Z", "matchtime": 258.7200000000129, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 12}}
+{"datetime": "2024-08-05T15:51:23.879676Z", "matchtime": 261.7280000000112, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:51:28.854732Z", "matchtime": 265.63200000000904, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 13}}
+{"datetime": "2024-08-05T15:51:32.933869Z", "matchtime": 268.6400000000074, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:51:39.716978Z", "matchtime": 273.8560000000045, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 14}}
+{"datetime": "2024-08-05T15:51:43.849858Z", "matchtime": 276.8640000000028, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:51:51.348126Z", "matchtime": 282.6559999999996, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 15}}
+{"datetime": "2024-08-05T15:51:55.452412Z", "matchtime": 285.66399999999794, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:52:12.016553Z", "matchtime": 298.11199999999104, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 16}}
+{"datetime": "2024-08-05T15:52:15.991604Z", "matchtime": 301.1199999999894, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:52:21.321403Z", "matchtime": 305.27999999998707, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 17}}
+{"datetime": "2024-08-05T15:52:25.399609Z", "matchtime": 308.2879999999854, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:52:46.032677Z", "matchtime": 323.32799999997707, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:52:47.556982Z", "matchtime": 324.44799999997645, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:52:52.507007Z", "matchtime": 327.71199999997464, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:52:52.846564Z", "matchtime": 327.9359999999745, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2024-08-05T15:53:15.029633Z", "matchtime": 341.95199999996674, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:53:36.473115Z", "matchtime": 356.99199999996995, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:53:53.103378Z", "matchtime": 369.7279999999742, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2024-08-05T15:53:53.858675Z", "matchtime": 370.3039999999744, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:53:56.136354Z", "matchtime": 372.03199999997497, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:54:09.541195Z", "matchtime": 382.9439999999786, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2024-08-05T15:54:12.770610Z", "matchtime": 385.3439999999794, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:54:14.642839Z", "matchtime": 386.6559999999798, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 18}}
+{"datetime": "2024-08-05T15:54:18.875861Z", "matchtime": 389.6639999999809, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:54:27.377254Z", "matchtime": 396.3519999999831, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 19}}
+{"datetime": "2024-08-05T15:54:31.443704Z", "matchtime": 399.3599999999841, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:54:56.375327Z", "matchtime": 418.1759999999904, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:55:04.800518Z", "matchtime": 424.41599999999244, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:55:11.070269Z", "matchtime": 429.055999999994, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2024-08-05T15:55:14.370267Z", "matchtime": 431.4559999999948, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-05T15:55:22.564233Z", "matchtime": 437.4399999999968, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:55:25.473209Z", "matchtime": 439.4559999999975, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:55:28.385288Z", "matchtime": 441.5039999999982, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-05T15:55:30.631483Z", "matchtime": 443.26399999999876, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:55:40.096367Z", "matchtime": 450.36800000000113, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2024-08-05T15:55:43.555290Z", "matchtime": 452.48000000000184, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:55:50.854409Z", "matchtime": 457.3760000000035, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:55:54.035302Z", "matchtime": 459.68000000000427, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-05T15:56:01.731475Z", "matchtime": 465.3760000000061, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:56:07.454633Z", "matchtime": 469.6960000000076, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 20}}
+{"datetime": "2024-08-05T15:56:11.571412Z", "matchtime": 472.70400000000825, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:56:31.454927Z", "matchtime": 487.7440000000066, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:56:38.213373Z", "matchtime": 492.6080000000061, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-05T15:56:39.812628Z", "matchtime": 493.79200000000594, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-05T15:56:55.899271Z", "matchtime": 506.1760000000046, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:57:01.392547Z", "matchtime": 510.04800000000415, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:57:03.547573Z", "matchtime": 511.680000000004, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-05T15:57:17.577848Z", "matchtime": 522.0800000000029, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:57:22.131453Z", "matchtime": 525.5040000000024, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:57:37.532604Z", "matchtime": 537.1200000000011, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:57:51.239929Z", "matchtime": 547.424, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 21}}
+{"datetime": "2024-08-05T15:57:55.148896Z", "matchtime": 550.4319999999997, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:58:15.618193Z", "matchtime": 566.079999999998, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:58:20.347411Z", "matchtime": 569.5999999999977, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-05T15:58:39.785694Z", "matchtime": 584.1919999999977, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-05T15:58:40.747703Z", "matchtime": 584.8639999999978, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 22}}
+{"datetime": "2024-08-05T15:58:44.973688Z", "matchtime": 587.8719999999978, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:58:56.213532Z", "matchtime": 596.9279999999978, "event": "GOAL", "payload": {"team_name": "Williamstown Magic", "score_yellow": 10, "score_blue": 23}}
+{"datetime": "2024-08-05T15:59:00.024279Z", "matchtime": 599.9359999999978, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-05T15:59:00.160023Z", "matchtime": 600.0319999999978, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 10, "score_blue": 23, "team_name_yellow": "Sina", "team_name_blue": "Williamstown Magic"}}

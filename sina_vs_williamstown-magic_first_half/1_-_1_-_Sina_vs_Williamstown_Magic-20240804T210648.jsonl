@@ -1,0 +1,44 @@
+{"datetime": "2024-08-04T21:06:48.020824Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2024-08-04T21:06:48.046305Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Williamstown Magic", "team_name_blue": "Sina", "match_id": "1", "halftime": 1}}
+{"datetime": "2024-08-04T21:07:04.482162Z", "matchtime": 15.04000000001838, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-04T21:07:07.990950Z", "matchtime": 18.368000000022448, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2024-08-04T21:07:11.358745Z", "matchtime": 21.376000000026124, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-04T21:07:54.601989Z", "matchtime": 59.744000000073015, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-04T21:07:55.399983Z", "matchtime": 60.512000000073954, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-04T21:08:24.323108Z", "matchtime": 83.8720000001025, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-04T21:08:33.753137Z", "matchtime": 90.97600000010584, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2024-08-04T21:08:37.631686Z", "matchtime": 93.98400000010417, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-04T21:09:16.972924Z", "matchtime": 127.23200000008575, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2024-08-04T21:09:20.574347Z", "matchtime": 130.24000000008408, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-04T21:09:46.800890Z", "matchtime": 152.7360000000716, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2024-08-04T21:09:50.459443Z", "matchtime": 155.74400000006995, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-04T21:10:14.096626Z", "matchtime": 176.3840000000585, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2024-08-04T21:10:32.304242Z", "matchtime": 191.84000000004994, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-04T21:12:20.723718Z", "matchtime": 281.47200000000026, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2024-08-04T21:12:22.711688Z", "matchtime": 283.0079999999994, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-04T21:12:45.237956Z", "matchtime": 302.23999999998875, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2024-08-04T21:12:48.942450Z", "matchtime": 305.2479999999871, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-04T21:13:40.129828Z", "matchtime": 349.3119999999674, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-04T21:13:40.949308Z", "matchtime": 350.07999999996764, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2024-08-04T21:14:05.379805Z", "matchtime": 373.5679999999755, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-04T21:14:06.627133Z", "matchtime": 374.7839999999759, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2024-08-04T21:14:17.841867Z", "matchtime": 384.6399999999792, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-04T21:14:19.277732Z", "matchtime": 385.6319999999795, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 0, "score_blue": 6}}
+{"datetime": "2024-08-04T21:14:23.223489Z", "matchtime": 388.63999999998055, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-04T21:14:57.425885Z", "matchtime": 417.5039999999901, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2024-08-04T21:15:16.233723Z", "matchtime": 432.3839999999951, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2024-08-04T21:15:17.274698Z", "matchtime": 433.34399999999545, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-04T21:15:18.257510Z", "matchtime": 434.20799999999576, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-04T21:15:18.842277Z", "matchtime": 434.7839999999959, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2024-08-04T21:15:33.879590Z", "matchtime": 447.39200000000017, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 0, "score_blue": 7}}
+{"datetime": "2024-08-04T21:15:37.495121Z", "matchtime": 450.4000000000011, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-04T21:16:06.249277Z", "matchtime": 475.26400000000797, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2024-08-04T21:16:13.244245Z", "matchtime": 480.6720000000074, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2024-08-04T21:16:14.123871Z", "matchtime": 481.3440000000073, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-04T21:16:48.586565Z", "matchtime": 511.360000000004, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-04T21:17:03.135729Z", "matchtime": 523.8080000000026, "event": "GOAL", "payload": {"team_name": "Sina", "score_yellow": 0, "score_blue": 8}}
+{"datetime": "2024-08-04T21:17:06.467651Z", "matchtime": 526.8160000000023, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2024-08-04T21:17:32.345481Z", "matchtime": 548.3839999999999, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-04T21:17:58.540006Z", "matchtime": 569.6639999999977, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2024-08-04T21:18:14.298976Z", "matchtime": 582.1439999999977, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2024-08-04T21:18:36.870739Z", "matchtime": 600.0319999999978, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 8, "team_name_yellow": "Williamstown Magic", "team_name_blue": "Sina"}}
